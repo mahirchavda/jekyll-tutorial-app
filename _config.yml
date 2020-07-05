@@ -22,3 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# For github pages
+baseurl: "/jekyll-tutorial-app"
+url: "https://mahirchavda.github.io"
